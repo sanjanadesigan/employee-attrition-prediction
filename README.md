@@ -1,3 +1,6 @@
+# Disclaimer
+This project is designed to perform specifically for the dataset mentioned. The requirements of this model may vary from user to user and must be changed necessarily to accomodate for a lesser or more aggressive approach to accurate prediction based on the specific requirements of the company.
+
 # Employee Attrition Prediction
 A machine learning project that predicts employee attrition using the **IBM HR Analytics Employee Attrition Dataset**.
 The objective of this project is to identify employees at risk of leaving by analyzing workplace, demographic, and job-related factors. 
